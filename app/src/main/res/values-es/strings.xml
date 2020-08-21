@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica1</string>
+
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="go_to_register">Ir a registro</string>
+    <string name="name">Nombre</string>
+    <string name="register">Registrarse</string>
+    <string name="go_to_login">Ir a Login</string>
+
+    <string name="error_email">Email es requerido</string>
+    <string name="error_password">Contraseña es requerida</string>
+    <string name="error_name">Nombre es requerido</string>
+    <string name="logged_in">Inicion de sesion exitoso</string>
+    <string name="no_match">Cuenta no registrada</string>
+    <string name="registered">Registrado</string>
+
+    <string name="logout">Cerrar Sesion</string>
+
+</resources>
