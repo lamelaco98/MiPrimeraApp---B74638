@@ -19,4 +19,8 @@
 
     <string name="logout">Cerrar Sesion</string>
 
+    <string name="task_name">Nombre de Tarea</string>
+    <string name="add">Agregar</string>
+    <string name="cancel">Cancelar</string>
+
 </resources>

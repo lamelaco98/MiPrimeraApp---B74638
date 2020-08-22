@@ -17,4 +17,8 @@
 
     <string name="logout">Logout</string>
 
+    <string name="task_name">Task name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+
 </resources>

@@ -6,6 +6,7 @@
 
     <color name="coralColor">#eb636b</color>
     <color name="whiteColor">#FFFFFF</color>
+    <color name="blackColor">#000000</color>
 
     <color name="transparent">@android:color/transparent</color>
 </resources>
