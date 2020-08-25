@@ -22,5 +22,8 @@
     <string name="task_name">Nombre de Tarea</string>
     <string name="add">Agregar</string>
     <string name="cancel">Cancelar</string>
+    <string name="want_to_delete">¿Quieres eliminar este objeto?</string>
+    <string name="yes">Si</string>
+    <string name="clean_list">clean_list</string>
 
 </resources>
